@@ -1,0 +1,17 @@
+name: localize
+description: A brick for managing localization files.
+
+version: 0.0.1+1
+
+# The following defines the environment for the current brick.
+# It includes the version of mason that the brick requires.
+environment:
+  mason: ">=0.1.0-dev.47 <0.1.0"
+
+
+vars:
+  # name:
+  #   type: string
+  #   description: Your name
+  #   default: Dash
+  #   prompt: What is your name?
