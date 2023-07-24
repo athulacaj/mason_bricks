@@ -1,5 +1,6 @@
 name: localize
 description: A brick for managing localization files.
+repository: https://github.com/athulacaj/mason_bricks
 
 version: 0.0.1+1
 
